@@ -1,0 +1,171 @@
+Act as a senior luxury real estate website designer and front-end developer.
+
+Build a premium, modern, static website (single-page HTML + CSS + minimal JS) for:
+
+Fair Deal Estate Consultant
+Tagline: Pune’s Premium Property Consultants Since 1995
+Trust Signal: 1000+ Happy Clients
+
+Location:
+Yerwada, Pune (Near Sports Complex)
+
+Phone Number:
+07947120719
+
+WhatsApp Link:
+https://wa.me/917947120719
+
+🎯 Website Goals
+
+Must look high-end and premium (not template-like)
+
+Should feel like a ₹5–10 lakh agency website
+
+Dark luxury theme (black + gold accents)
+
+Elegant typography
+
+Smooth animations
+
+Clean spacing and modern layout
+
+Fully responsive (mobile-first)
+
+🏗 Required Sections
+
+Hero Section
+
+Big bold luxury headline
+
+Subheading about 30+ years experience
+
+CTA buttons:
+
+Call Now
+
+WhatsApp
+
+Enquire Now
+
+Subtle background gradient or image overlay
+
+About Section
+
+Since 1995 legacy
+
+1000+ happy clients
+
+Trusted property advisory
+
+Mention Yerwada, Pune
+
+Services Section
+Premium cards with hover animation:
+
+Property Buying
+
+Property Selling
+
+Property Rentals
+
+New Projects
+
+Commercial Spaces
+
+Investment Advisory
+
+Why Choose Us
+Elegant icons + short text:
+
+30+ Years Experience
+
+Transparent Deals
+
+Local Market Expertise
+
+Strong Developer Network
+
+Personalized Advisory
+
+Premium CTA Banner
+“Looking for the Right Property in Pune?”
+Button: Schedule Consultation
+
+Contact Section
+
+Phone number displayed clearly
+
+WhatsApp button
+
+Email placeholder (info@fairdealestate.in
+)
+
+Enquiry Form (Name, Phone, Email, Requirement)
+
+Google Map placeholder embed section
+
+Footer
+
+Address: Yerwada, Pune (Near Sports Complex)
+
+Phone
+
+Copyright
+
+Social icons placeholder
+
+💎 Design Instructions
+
+Use Google Fonts (Playfair Display for headings + Poppins for body)
+
+Smooth fade-in animations
+
+Gold accent color: #C9A227
+
+Dark background: #0B0B0B or deep charcoal
+
+Soft shadows and premium spacing
+
+Rounded buttons
+
+Floating WhatsApp button bottom-right
+
+Sticky navigation bar
+
+⚙ Technical Requirements
+
+Deliver full working code in one file (HTML with internal CSS + JS)
+
+No frameworks
+
+Clean, organized code
+
+Mobile responsive
+
+Smooth scroll navigation
+
+Subtle hover effects
+
+🏆 Tone & Positioning
+
+The website should communicate:
+
+Trust
+
+Legacy
+
+Premium positioning
+
+Authority in Pune real estate market
+
+Stability since 1995
+
+Avoid:
+
+Cheap gradients
+
+Overcrowded layout
+
+Stock template appearance
+
+Bright flashy colors
